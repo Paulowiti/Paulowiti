@@ -118,6 +118,6 @@ I enjoy understanding how systems work from first principles — from particle i
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paul-owiti)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-owiti/)
 
 </div>
