@@ -29,7 +29,7 @@ I enjoy understanding how systems work from first principles — from particle i
 
 ---
 
-## 🔬 Research Experience
+##  Research Experience
 
 ### CERN — ATLAS DCS (FPGAs & Machine Learning)
 
@@ -47,7 +47,7 @@ I enjoy understanding how systems work from first principles — from particle i
 
 ---
 
-## 🛠️ Languages & Technologies
+##  Languages & Technologies
 
 ### Programming & Hardware
 
@@ -98,15 +98,15 @@ I enjoy understanding how systems work from first principles — from particle i
 
 | Project | Focus |
 | :--- | :--- |
-| 🔬 Muon Tomography | Particle physics and detector simulation |
-| 🧠 Unsupervised machine learning | Scientific machine learning and hardware monitoring |
-| ⚡ FPGAs & Embedded Systems | Digital logic, firmware and instrumentation |
-| 🎮 UE5 game development | Vehicle physics, 3D modelling and game development |
-| 📡 Decentralized Communication | Bluetooth mesh and off-grid networking |
+|  Muon Tomography | Particle physics and detector simulation |
+|  Unsupervised machine learning | Scientific machine learning and hardware monitoring |
+|  FPGAs & Embedded Systems | Digital logic, firmware and instrumentation |
+|  UE5 game development | Vehicle physics, 3D modelling and game development |
+|  Decentralized Communication | Bluetooth mesh and off-grid networking |
 
 ---
 
-## 🎓 Academic & Professional Background
+##  Academic & Professional Background
 
 - **CERN** — Summer Student, 2026
 - **University of Nairobi** — BSc. Microprocessor Technology & Instrumentation
