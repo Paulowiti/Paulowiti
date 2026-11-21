@@ -19,7 +19,7 @@ I'm Paul Martin, a Microprocessor Technology & Instrumentation graduate from the
 
 My interests span particle detector instrumentation, scientific computing, machine learning, embedded systems and interactive 3D simulation.
 
-I enjoy understanding how systems work from first principles — from particle interactions and low-level hardware to intelligent algorithms and virtual environments.
+I enjoy understanding how systems work.
 
  **Research:** Muon tomography, atmospheric muons, cosmic-ray showers, and particle detector simulations.
  **Machine Learning:** Variational Autoencoders, time-series anomaly detection, and scientific data analysis.
