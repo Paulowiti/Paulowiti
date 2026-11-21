@@ -25,7 +25,6 @@ I enjoy understanding how systems work.
  **Machine Learning:** Variational Autoencoders, time-series anomaly detection, and scientific data analysis.
  **Hardware:** Embedded systems, FPGA development, digital logic and instrumentation.
  **Currently building:** Vehicle physics, interactive environments and 3D assets using Unreal Engine 5 and Blender.
- **Open to:** Research collaborations, postgraduate opportunities and challenging engineering projects.
 
 ---
 
