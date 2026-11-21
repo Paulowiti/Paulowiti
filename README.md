@@ -20,12 +20,6 @@ I'm Paul, a Microprocessor Technology & Instrumentation graduate from the Univer
 My interests span particle detector instrumentation, scientific computing, machine learning, embedded systems and interactive 3D simulation.
 
 I enjoy understanding how systems work.
-
- **Research:** Muon tomography, atmospheric muons, cosmic-ray showers, and particle detector simulations.
- **Machine Learning:** Variational Autoencoder for anomaly detection and scientific data analysis.
- **Hardware:** Embedded systems ESP32, FPGA development and instrumentation.
- **Currently building:** Vehicle physics and interactive game environments using Unreal Engine 5 and Blender.
-
 ---
 
 ##  Research Experience
