@@ -15,16 +15,16 @@
 
 ## Hi ✋
 
-I'm Paul Martin, a Microprocessor Technology & Instrumentation graduate from the University of Nairobi and a former CERN Summer Student. I love working on projects that revolve around the intersection of physics, electronics and computer science.
+I'm Paul, a Microprocessor Technology & Instrumentation graduate from the University of Nairobi and a former CERN Summer Student. I love working on projects that revolve around the intersection of physics, electronics and computer science.
 
 My interests span particle detector instrumentation, scientific computing, machine learning, embedded systems and interactive 3D simulation.
 
 I enjoy understanding how systems work.
 
  **Research:** Muon tomography, atmospheric muons, cosmic-ray showers, and particle detector simulations.
- **Machine Learning:** Variational Autoencoders, time-series anomaly detection, and scientific data analysis.
- **Hardware:** Embedded systems, FPGA development, digital logic and instrumentation.
- **Currently building:** Vehicle physics, interactive environments and 3D assets using Unreal Engine 5 and Blender.
+ **Machine Learning:** Variational Autoencoder for anomaly detection and scientific data analysis.
+ **Hardware:** Embedded systems ESP32, FPGA development and instrumentation.
+ **Currently building:** Vehicle physics and interactive game environments using Unreal Engine 5 and Blender.
 
 ---
 
@@ -52,10 +52,8 @@ I enjoy understanding how systems work.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543DE0?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-ED1C24?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### Machine Learning
 
@@ -102,15 +100,6 @@ I enjoy understanding how systems work.
 |  FPGAs & Embedded Systems | Digital logic, firmware and instrumentation |
 |  UE5 game development | Vehicle physics, 3D modelling and game development |
 |  Decentralized Communication | Bluetooth mesh and off-grid networking |
-
----
-
-##  Academic & Professional Background
-
-- **CERN** — Summer Student, 2026
-- **University of Nairobi** — BSc. Microprocessor Technology & Instrumentation
-- **Muon Tomography Research** — Cosmic-ray and detector simulations
-- **NASA Space Apps Challenge** — Collaborative technology development
 
 ---
 
