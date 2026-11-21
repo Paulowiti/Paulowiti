@@ -35,7 +35,6 @@ I enjoy understanding how systems work.
 - Simulation of atmospheric muon flux and particle distributions.
 - Extensive air shower simulations using ARTI and CORSIKA.
 - Muon detector simulation and characterization.
-- Scientific data processing, visualization and computational modelling.
 - Containerized simulation environments using Docker.
 
 ---
@@ -59,7 +58,6 @@ I enjoy understanding how systems work.
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![QKeras](https://img.shields.io/badge/QKeras-8A2BE2?style=for-the-badge)
-![hls4ml](https://img.shields.io/badge/hls4ml-005C97?style=for-the-badge)
 
 ### Particle Physics & Detector Simulation
 
