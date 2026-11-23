@@ -57,7 +57,6 @@ I enjoy understanding how systems work.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![QKeras](https://img.shields.io/badge/QKeras-8A2BE2?style=for-the-badge)
 
 ### Particle Physics & Detector Simulation
 
@@ -83,7 +82,7 @@ I enjoy understanding how systems work.
 
 ---
 
-## Current Projects & Interests
+## Current Projects
 
 | Project | Focus |
 | :--- | :--- |
@@ -91,7 +90,7 @@ I enjoy understanding how systems work.
 |  Unsupervised machine learning | Scientific machine learning and hardware monitoring |
 |  FPGAs & Embedded Systems | Digital logic, firmware and instrumentation |
 |  UE5 game development | Vehicle physics, 3D modelling and game development |
-|  Decentralized Communication | Bluetooth mesh and off-grid networking |
+|  Bluetooth grid | Bluetooth mesh and off-grid networks for messaging |
 
 ---
 
